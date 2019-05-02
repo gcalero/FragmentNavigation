@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragment Nav</string>
+    <string name="home">Home</string>
+    <string name="arrows">Arrows</string>
+    <string name="play_stop">Play / Stop</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+</resources>
